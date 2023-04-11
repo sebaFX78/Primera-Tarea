@@ -6,10 +6,14 @@ header>h2{
     text-align: center;
     font-size: 30px;
 }
-header>nav{
+body>fieldset>nav{
     font-size: 20px;
     display: flex;
     justify-content: space-around;
+    
+}
+body>fieldset{
+    border-radius: 10px 10px 10px 10px;
 }
 body{
     background-color:lightblue;
